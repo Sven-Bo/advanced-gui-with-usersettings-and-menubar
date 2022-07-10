@@ -1,5 +1,5 @@
 
-# Create a advanced GUI app with PySimpleGUI (Full Tutorial)
+# Create an advanced GUI app with PySimpleGUI (Full Tutorial)
 
 In this tutorial, I'm going to walk you through the process of creating a GUI app with Python. I'll show you how to create an advanced Graphical User Interface complete with buttons, input boxes, user settings and a custom menu bar. I'll start with a simple GUI app that has just two buttons. Then, we'll create a more advanced GUI app to retrieve and save user settings. Finally, we will implement a custom menu bar and convert our code into a standalone executable file.<br/>
 
