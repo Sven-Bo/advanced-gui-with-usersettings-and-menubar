@@ -11,9 +11,11 @@ In the final application, you can convert a selected Excel sheet into a CSV file
 - Convert Excel Files to CSV
 
 # Screenshots
+**Main Window:**
 ![Main Window](/main_window.jpg?raw=true "Main Window")
 ![Settings Window](/settings_window.jpg?raw=true "Settings Window")
-
+<br/>
+**Settings Window:**
 ## Video Tutorial
 ..will follow soon!
 [![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
