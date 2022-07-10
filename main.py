@@ -106,7 +106,3 @@ if __name__ == "__main__":
     sg.theme(theme)
     sg.set_options(font=(font_family, font_size))
     main_window()
-
-
-
-
