@@ -18,8 +18,7 @@ In the final application, you can convert a selected Excel sheet into a CSV file
 ![Settings Window](/settings_window.jpg?raw=true "Settings Window")
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/LzCfNanQ_9c/0.jpg)](https://youtu.be/LzCfNanQ_9c)
 
 ## Requirements
 Install the dependecies with pip
