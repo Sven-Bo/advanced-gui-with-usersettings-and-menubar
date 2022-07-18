@@ -3,6 +3,21 @@ from pathlib import Path  # core python module
 import pandas as pd  # pip install pandas openpyxl
 import PySimpleGUI as sg  # pip install pysimplegui
 
+DEFAULT_SETTINGS = '''[GUI]
+title = Excel 2 CSV Converter
+font_size = 14
+font_family = Arial
+theme = DarkTeal10
+
+[CSV]
+separator = |
+decimal = .|,
+decimal_default = .
+
+[EXCEL]
+sheet_name = Sheet1
+
+'''
 
 def is_valid_path(filepath):
     if filepath and Path(filepath).exists():
@@ -93,12 +108,23 @@ def main_window():
                 )
     window.close()
 
+def check_missing_settings(filename,defaul_values):
+    if Path(filename).exists() == False:
+        file = open(filename, 'w+')
+        file.write(defaul_values)
+        file.close
+        # hardcoding theme and font as config appears to be created only after function is finished
+        sg.theme('DarkTeal10')
+        sg.set_options(font=('Arial', 14))
+        sg.popup("Settings file is missing. Created with default settings.")
 
 if __name__ == "__main__":
     SETTINGS_PATH = Path.cwd()
+    FILENAME = "config.ini"
+    check_missing_settings(FILENAME,DEFAULT_SETTINGS)
     # create the settings object and use ini format
     settings = sg.UserSettings(
-        path=SETTINGS_PATH, filename="config.ini", use_config_file=True, convert_bools_and_none=True
+        path=SETTINGS_PATH, filename=FILENAME, use_config_file=True, convert_bools_and_none=True
     )
     theme = settings["GUI"]["theme"]
     font_family = settings["GUI"]["font_family"]
