@@ -38,7 +38,7 @@ python main.py
 - 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - 🌐 **Website:** [PythonAndVBA](https://pythonandvba.com)
 - 💬 **Discord:** [Join our Community](https://pythonandvba.com/discord)
-- 💼 **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sven-bosau/)
 - 📸 **Instagram:** [Follow me](https://www.instagram.com/codingisfun_official/)
 
 ## Support My Work
