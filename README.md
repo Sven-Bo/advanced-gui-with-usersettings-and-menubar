@@ -21,11 +21,14 @@ In the final application, you can convert a selected Excel sheet into a CSV file
 [![YouTube Video](https://img.youtube.com/vi/LzCfNanQ_9c/0.jpg)](https://youtu.be/LzCfNanQ_9c)
 
 ## Requirements
-Install the dependecies with pip
+**Note:** While the YouTube tutorial uses PySimpleGUI, this repository has been updated to use FreeSimpleGUI (the actively maintained fork) with updated package versions.
+
+Install the dependencies with pip
 ```
-openpyxl==3.0.10
-pandas==1.3.5
-PySimpleGUI==4.60.1
+pandas>=2.2.0
+openpyxl>=3.1.2
+numpy>=1.24.0
+FreeSimpleGUI>=5.2.0
 ```
 
 ## Usage
