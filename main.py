@@ -1,7 +1,7 @@
 from pathlib import Path  # core python module
 
 import pandas as pd  # pip install pandas openpyxl
-import PySimpleGUI as sg  # pip install pysimplegui
+import FreeSimpleGUI as sg  # pip install FreeSimpleGUI
 
 
 def is_valid_path(filepath):
