@@ -46,8 +46,7 @@ Explore my tools and templates for Excel, automation, and more.
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
 - **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
 - **Contact:** [Get in Touch](https://pythonandvba.com/contact)
-## Support My Work
-Love my content and want to show appreciation? Why not [buy me a coffee](https://pythonandvba.com/coffee-donation) to fuel my creative engine? Your support means the world to me! 😊
+## Support
+If you find this project helpful, consider buying me a coffee. 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
-
