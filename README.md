@@ -38,10 +38,9 @@ python main.py
 ```
 
 
-
-
-## 💡 Explore My Solutions
-From Excel add-ins to messaging tools and logistics solutions.
+## More Solutions
+[![Explore Solutions](https://img.shields.io/badge/Explore-Solutions-blue?style=for-the-badge)](https://pythonandvba.com/solutions)
+Check out my full collection of Excel automation tools for messaging, logistics, document generation, and AI integration.
 
 👉 **[See All Solutions](https://pythonandvba.com/solutions)**
 ## Connect with Me
