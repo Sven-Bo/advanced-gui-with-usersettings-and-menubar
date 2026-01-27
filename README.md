@@ -39,13 +39,9 @@ python main.py
 
 
 ## More Solutions
+Explore my tools and templates for Excel, automation, and more.
 
-Check out my full collection of Excel automation tools for messaging, logistics, document generation, and AI integration.
-
-<a href="https://pythonandvba.com/solutions">
-  <img src="https://img.shields.io/badge/View%20All%20Solutions-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="View All Solutions">
-</a>
-
+**[View all solutions](https://pythonandvba.com/solutions)**
 ## Connect with Me
 - **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
